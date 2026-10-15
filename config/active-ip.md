@@ -1,8 +1,8 @@
 # 当前激活的 IP
 
-active_ip: naiwa
-profile: ips/naiwa.md
-reference: assets/character/naiwa/ref-front.png
+active_ip: naiwa-user
+profile: ips/naiwa-user.md
+reference: assets/character/naiwa-user/ref-shape.jpg
 onboarded: true
 
 <!--
